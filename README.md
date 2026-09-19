@@ -1,47 +1,22 @@
-# Simple Calculator
+​Number Randomizer
+​A Python console program that allows you to generate random numbers.
 
-A console-based Python program for basic arithmetic operations: addition, subtraction, multiplication, and division.
+​Features:
+​Output of a random number in the console
+​Choice of number range for generation
+​Automatic check to ensure the first number is not greater than the second
 
-## Features
+​Requirements:
+Python 3.X
+500B of free disk space
 
-- Input of two numbers (decimal values supported)
-- Choice of operation: `+`, `-`, `*`, `/`
-- Protection against division by zero
-- Clear result output
+​Launch:
+python Randomizer.py
 
-## Requirements
+​Usage Example:
+Enter first number 12
+Enter second number 46
+37
 
-- Python 3.x
-
-## Usage
-
-```bash
-python main.py
-```
-
-## Example
-
-```
-Enter your first number: 10
-Enter your second number: 4
-Enter operation (+,-,*,/): /
-2.5
-```
-
-## Project Structure
-
-```
-.
-└── main.py
-```
-
-## Possible Improvements
-
-- Handle invalid input (e.g., letters instead of numbers)
-- Support additional operations (exponentiation, modulo)
-- Move logic into functions for easier testing
-- Add localization for messages
-
-## License
-
-Free to use for educational and personal purposes.
+​License:
+Free use
