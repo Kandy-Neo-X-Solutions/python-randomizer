@@ -1,4 +1,4 @@
-​Number Randomizer
+​Number Randomizer: 
 ​A Python console program that allows you to generate random numbers.
 
 ​Features:
